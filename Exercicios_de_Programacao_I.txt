@@ -1,0 +1,11 @@
+Exercícios de Laços
+
+1) Dada uma dívida de R$ 10,000,00 que cresce a juros de 2,5% ao mês, e uma aplicação de R$ 1.500,00 com rendimento de 4% ao mês. Escrever um algoritmo que determina o número de meses necessários para pagar a dívida.
+
+2) Fazer um programa para calcular e mostrar os N primeiros termos da série de Fibonacci. O número N é informado pelo usuário.
+
+3) Faça o programa que apresente os 256 caracteres da tabela ASCII (0...255)
+
+4) http://br.spoj.com/problems/PLACAR/
+
+5) http://br.spoj.com/problems/FEYNMAN/
